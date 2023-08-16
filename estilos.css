@@ -1,0 +1,40 @@
+.main-flex { 
+    display: flex;
+    flex-direction: colum;
+    flex-wrap:wrap;
+    height: 700px;
+    width: 100vw;
+}
+.navbar-flex{
+    border:2px solid rgb(83, 226, 83);
+    background-color: blueviolet;
+    width: 20%;
+    height: 90%;
+    margin-bottom: auto;
+}
+.main-container-flex {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 80%
+}
+.header-flex {
+width:100%;
+background-color: aqua;
+height: 15%;
+}
+.section-flex{
+    height: 100%;
+    width: 100%;
+    background-color: beige;
+    border: 2px solid blue;
+
+}
+.sub-container-flex{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 60%;
+
+}
+
